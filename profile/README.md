@@ -6,6 +6,9 @@
 - Basic Examples controlling the robot dog: [HSE Examples](https://github.com/hse-deb-algo-athlets/minimal_examples/tree/master/examples/hse)
 - Previews MechProj - Aim Remote Control: [Repo MechProject](https://github.com/hse-deb-algo-athlets/mech_project)
 
+External Repos for a prelimitary ROS stack:
+
+- [gh - abizovnuralem/go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk)
 
 ## Hi there 👋
 
