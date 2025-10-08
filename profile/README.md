@@ -10,11 +10,13 @@ External Repos for a prelimitary ROS stack:
 
 - [gh - abizovnuralem/go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk)
 
+
 ## Hi there 👋
 
 Starting Points:
 
 - [ ] Write down responsibilities
+- [ ] Organize the regular meetings!
 - [ ] Walk through the elements of the input from M.Schlipf
 - [ ] Setup project Write down first issues
 
