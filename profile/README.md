@@ -1,4 +1,4 @@
-## Starting Points for the Dog
+## Technical Starting Points for the Dog
 
 >[!NOTE]
 > These resources directly extend the basic driver. This is not a good pratice. Use a professional setup e.g. using ROS or pure pythen with uv
@@ -9,9 +9,12 @@
 
 ## Hi there 👋
 
+Starting Points:
+
 - [ ] Write down responsibilities
 - [ ] Walk through the elements of the input from M.Schlipf
 - [ ] Setup project Write down first issues
+
 
 
 
