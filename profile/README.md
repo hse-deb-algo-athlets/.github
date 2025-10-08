@@ -10,7 +10,8 @@ HSE Content:
 
 External Repos for a prelimitary ROS stack:
 
-- [gh - abizovnuralem/go2_ros2_sdk](https://github.com/abizovnuralem/go2_ros2_sdk)
+- [ROS Stack](https://github.com/abizovnuralem/go2_ros2_sdk)
+- [Communication Library RobotDog to PC](https://github.com/legion1581/unitree_webrtc_connect)
 
 
 ## Hi there 👋
